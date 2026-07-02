@@ -1,0 +1,122 @@
+[
+  {
+    "id": "T-1001",
+    "comercioId": "C-001",
+    "comercioNombre": "Supermercado Central",
+    "monto": 150.5,
+    "metodoPago": "TARJETA",
+    "estado": "CONCILIADA",
+    "fecha": "2026-07-01T08:15:00Z",
+    "referencia": "REF-9A1B"
+  },
+  {
+    "id": "T-1002",
+    "comercioId": "C-002",
+    "comercioNombre": "Farmacia Salud",
+    "monto": 42.0,
+    "metodoPago": "QR",
+    "estado": "PENDIENTE",
+    "fecha": "2026-07-01T08:42:00Z",
+    "referencia": "REF-3C7D"
+  },
+  {
+    "id": "T-1003",
+    "comercioId": "C-003",
+    "comercioNombre": "Cafetería El Grano",
+    "monto": 18.75,
+    "metodoPago": "EFECTIVO",
+    "estado": "CONCILIADA",
+    "fecha": "2026-07-01T09:05:00Z",
+    "referencia": "REF-5E2F"
+  },
+  {
+    "id": "T-1004",
+    "comercioId": "C-001",
+    "comercioNombre": "Supermercado Central",
+    "monto": 320.9,
+    "metodoPago": "TRANSFERENCIA",
+    "estado": "FALLIDA",
+    "fecha": "2026-07-01T09:30:00Z",
+    "referencia": "REF-8H4J"
+  },
+  {
+    "id": "T-1005",
+    "comercioId": "C-004",
+    "comercioNombre": "Librería Andina",
+    "monto": 87.25,
+    "metodoPago": "TARJETA",
+    "estado": "CONCILIADA",
+    "fecha": "2026-07-01T10:12:00Z",
+    "referencia": "REF-2K9L"
+  },
+  {
+    "id": "T-1006",
+    "comercioId": "C-005",
+    "comercioNombre": "Estación de Servicio Norte",
+    "monto": 210.0,
+    "metodoPago": "TARJETA",
+    "estado": "PENDIENTE",
+    "fecha": "2026-07-01T10:48:00Z",
+    "referencia": "REF-6M1N"
+  },
+  {
+    "id": "T-1007",
+    "comercioId": "C-002",
+    "comercioNombre": "Farmacia Salud",
+    "monto": 65.4,
+    "metodoPago": "QR",
+    "estado": "RECHAZADA",
+    "fecha": "2026-07-01T11:20:00Z",
+    "referencia": "REF-4P8Q"
+  },
+  {
+    "id": "T-1008",
+    "comercioId": "C-003",
+    "comercioNombre": "Cafetería El Grano",
+    "monto": 29.9,
+    "metodoPago": "EFECTIVO",
+    "estado": "CONCILIADA",
+    "fecha": "2026-07-01T11:55:00Z",
+    "referencia": "REF-7R3S"
+  },
+  {
+    "id": "T-1009",
+    "comercioId": "C-001",
+    "comercioNombre": "Supermercado Central",
+    "monto": 512.3,
+    "metodoPago": "TRANSFERENCIA",
+    "estado": "CONCILIADA",
+    "fecha": "2026-07-01T12:40:00Z",
+    "referencia": "REF-1T5U"
+  },
+  {
+    "id": "T-1010",
+    "comercioId": "C-005",
+    "comercioNombre": "Estación de Servicio Norte",
+    "monto": 178.6,
+    "metodoPago": "TARJETA",
+    "estado": "FALLIDA",
+    "fecha": "2026-07-01T13:10:00Z",
+    "referencia": "REF-9V2W"
+  },
+  {
+    "id": "T-1011",
+    "comercioId": "C-004",
+    "comercioNombre": "Librería Andina",
+    "monto": 44.15,
+    "metodoPago": "QR",
+    "estado": "CONCILIADA",
+    "fecha": "2026-07-01T13:52:00Z",
+    "referencia": "REF-3X6Y"
+  },
+  {
+    "id": "T-1012",
+    "comercioId": "C-002",
+    "comercioNombre": "Farmacia Salud",
+    "monto": 96.8,
+    "metodoPago": "TARJETA",
+    "estado": "PENDIENTE",
+    "fecha": "2026-07-01T14:25:00Z",
+    "referencia": "REF-5Z8A"
+  }
+]

@@ -1,0 +1,7 @@
+[
+  { "id": "C-001", "nombre": "Supermercado Central" },
+  { "id": "C-002", "nombre": "Farmacia Salud" },
+  { "id": "C-003", "nombre": "Cafetería El Grano" },
+  { "id": "C-004", "nombre": "Librería Andina" },
+  { "id": "C-005", "nombre": "Estación de Servicio Norte" }
+]

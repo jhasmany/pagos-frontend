@@ -1,0 +1,72 @@
+[
+  {
+    "id": "CN-001",
+    "transaccionId": "T-1001",
+    "comercioId": "C-001",
+    "comercioNombre": "Supermercado Central",
+    "monto": 150.5,
+    "estado": "CONCILIADA",
+    "fecha": "2026-07-01T08:15:00Z",
+    "fechaConciliacion": "2026-07-01T18:00:00Z"
+  },
+  {
+    "id": "CN-002",
+    "transaccionId": "T-1002",
+    "comercioId": "C-002",
+    "comercioNombre": "Farmacia Salud",
+    "monto": 42.0,
+    "estado": "PENDIENTE",
+    "fecha": "2026-07-01T08:42:00Z",
+    "fechaConciliacion": null
+  },
+  {
+    "id": "CN-003",
+    "transaccionId": "T-1003",
+    "comercioId": "C-003",
+    "comercioNombre": "Cafetería El Grano",
+    "monto": 18.75,
+    "estado": "CONCILIADA",
+    "fecha": "2026-07-01T09:05:00Z",
+    "fechaConciliacion": "2026-07-01T18:00:00Z"
+  },
+  {
+    "id": "CN-004",
+    "transaccionId": "T-1004",
+    "comercioId": "C-001",
+    "comercioNombre": "Supermercado Central",
+    "monto": 320.9,
+    "estado": "FALLIDA",
+    "fecha": "2026-07-01T09:30:00Z",
+    "fechaConciliacion": null
+  },
+  {
+    "id": "CN-005",
+    "transaccionId": "T-1005",
+    "comercioId": "C-004",
+    "comercioNombre": "Librería Andina",
+    "monto": 87.25,
+    "estado": "CONCILIADA",
+    "fecha": "2026-07-01T10:12:00Z",
+    "fechaConciliacion": "2026-07-01T18:00:00Z"
+  },
+  {
+    "id": "CN-006",
+    "transaccionId": "T-1009",
+    "comercioId": "C-001",
+    "comercioNombre": "Supermercado Central",
+    "monto": 512.3,
+    "estado": "CONCILIADA",
+    "fecha": "2026-07-01T12:40:00Z",
+    "fechaConciliacion": "2026-07-01T18:00:00Z"
+  },
+  {
+    "id": "CN-007",
+    "transaccionId": "T-1010",
+    "comercioId": "C-005",
+    "comercioNombre": "Estación de Servicio Norte",
+    "monto": 178.6,
+    "estado": "FALLIDA",
+    "fecha": "2026-07-01T13:10:00Z",
+    "fechaConciliacion": null
+  }
+]

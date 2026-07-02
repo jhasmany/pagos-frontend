@@ -1,0 +1,47 @@
+[
+  {
+    "comercioId": "C-001",
+    "comercioNombre": "Supermercado Central",
+    "fecha": "2026-07-01",
+    "totalOperaciones": 320,
+    "totalMonto": 62310.4,
+    "totalFallidas": 12,
+    "totalConciliadas": 295
+  },
+  {
+    "comercioId": "C-002",
+    "comercioNombre": "Farmacia Salud",
+    "fecha": "2026-07-01",
+    "totalOperaciones": 180,
+    "totalMonto": 28450.2,
+    "totalFallidas": 8,
+    "totalConciliadas": 160
+  },
+  {
+    "comercioId": "C-003",
+    "comercioNombre": "Cafetería El Grano",
+    "fecha": "2026-07-01",
+    "totalOperaciones": 95,
+    "totalMonto": 15230.9,
+    "totalFallidas": 3,
+    "totalConciliadas": 88
+  },
+  {
+    "comercioId": "C-004",
+    "comercioNombre": "Librería Andina",
+    "fecha": "2026-07-01",
+    "totalOperaciones": 140,
+    "totalMonto": 21890.55,
+    "totalFallidas": 5,
+    "totalConciliadas": 130
+  },
+  {
+    "comercioId": "C-005",
+    "comercioNombre": "Estación de Servicio Norte",
+    "fecha": "2026-07-01",
+    "totalOperaciones": 260,
+    "totalMonto": 56648.7,
+    "totalFallidas": 15,
+    "totalConciliadas": 238
+  }
+]

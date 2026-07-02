@@ -1,0 +1,30 @@
+{
+  "kpis": {
+    "totalTransacciones": 1284,
+    "totalConciliadas": 1042,
+    "totalFallidas": 96,
+    "montoProcesado": 184530.75
+  },
+  "transaccionesPorHora": [
+    { "hora": "08:00", "cantidad": 42 },
+    { "hora": "09:00", "cantidad": 68 },
+    { "hora": "10:00", "cantidad": 91 },
+    { "hora": "11:00", "cantidad": 120 },
+    { "hora": "12:00", "cantidad": 156 },
+    { "hora": "13:00", "cantidad": 134 },
+    { "hora": "14:00", "cantidad": 98 },
+    { "hora": "15:00", "cantidad": 110 }
+  ],
+  "montoPorComercio": [
+    { "comercio": "Supermercado Central", "monto": 62310.4 },
+    { "comercio": "Farmacia Salud", "monto": 28450.2 },
+    { "comercio": "Cafetería El Grano", "monto": 15230.9 },
+    { "comercio": "Librería Andina", "monto": 21890.55 },
+    { "comercio": "Estación de Servicio Norte", "monto": 56648.7 }
+  ],
+  "estadosConciliacion": [
+    { "estado": "CONCILIADA", "cantidad": 1042 },
+    { "estado": "PENDIENTE", "cantidad": 146 },
+    { "estado": "FALLIDA", "cantidad": 96 }
+  ]
+}
